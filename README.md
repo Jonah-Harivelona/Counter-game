@@ -12,11 +12,11 @@ Vous pouvez y jouer avec vos amis et les défier de cliquer, cliquer, cliquer, c
  # Se déplacer dans le dossier
 cd Counter-game
 
-# Installer les dépendances (si applicable)
+# Installer les dépendances
 npm install
 npm run dev
 
 # Technologie
-
+css
 React
 
